@@ -1,14 +1,4 @@
-# ═══════════════════════════════════════════════════════════
-# robots.txt
-# Dharma-State Architecture: A Sanatan Framework for
-# Civilisational Governance
-# Author: Kallol Chakrabarti · Global Independent Researcher
-# https://helixoriginator.github.io/Dharma-State-Architecture-A-Sanatan-Framework-for-Civilisational-Governance/
-# ═══════════════════════════════════════════════════════════
-
-# Allow all search engines full access
 User-agent: *
 Allow: /
 
-# Sitemap location
 Sitemap: https://helixoriginator.github.io/Dharma-State-Architecture-A-Sanatan-Framework-for-Civilisational-Governance/sitemap.xml
